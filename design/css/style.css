@@ -1,0 +1,41 @@
+body{
+    background-color: #D6E4F0;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.frame{
+    background-color: white;
+    border-radius: 25px;
+    width: 350px;
+    height: 500px;
+    margin: 100px auto 100px auto;
+    text-align: center;
+    
+
+}
+.image{
+    width: 90%;
+    border-radius: 0.8rem;
+
+}
+.img{
+    padding-top: 1rem;;
+}
+.text{
+    width: 75%;
+    margin: 20px auto 0  auto;
+    font-size: 95%;
+
+
+}
+.scan{
+    color: gray;
+    font-size: 90%;
+}
+.improve{
+    font-size: 125%;
+    font-weight: 700;
+    margin-bottom: 0.625rem;
+    margin-top: 0.5rem;
+}
